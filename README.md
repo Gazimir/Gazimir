@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gazimir
 - 👀 I’m interested in Identity and Access Management
-- 🌱 I’m currently learning Azure and Other IAM tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
